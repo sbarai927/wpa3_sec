@@ -80,7 +80,9 @@ wpa3_sec/                       ← root of the repo
 │   ├── random_calls.csv
 │   ├── variation_execution_time.csv
 │   └── pe_generation_full.png  # (auto-generated graph – commit later)
-│
+│── plots/                       
+│   ├── iter_vs_exec_time.png
+│   ├── random_calls_timeline.png
 ├── docs/                       ← (OPTIONAL) slides, paper PDF, extra figures
 │
 ├── notebooks/                  ← Exploratory Jupyter notebooks

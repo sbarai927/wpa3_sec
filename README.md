@@ -192,7 +192,7 @@ pytest --cov    # with coverage
 5. Diffie, W. & Hellman, M. **Diffie–Hellman Key Exchange**. In *Encyclopedia of Cryptography and Security*, pp. 342–342, 2011.  
 6. Vanhoef, M. & Piessens, F. **Predicting, Decrypting, and Abusing WPA2/802.11 Group Keys**. USENIX Security Workshop Talk, 2016.  
 7. Kivinen, T. & Kojo, M. **RFC 3526: More MODP Diffie-Hellman Groups for IKE**. IETF, 2003.  
-8. Islam, I., Barai, S. & Moon, A. **Reduced Side-Channel Timing Attack in Dragonfly Handshake of WPA3 for MODP Group**. B.Sc. Thesis, Daffodil Int. Univ., 2020.  
+8. Islam, I., Barai, S. & Moon, A. **Reduced Side-Channel Timing Attack in Dragonfly Handshake of WPA3 for MODP Group**. B.Sc. Thesis, Daffodil Int. Univ., 2020. <http://dspace.daffodilvarsity.edu.bd:8080/handle/123456789/6246>
 9. Vanhoef, M. & Ronen, E. **Dragonblood: A Security Analysis of WPA3’s SAE Handshake**. 2018. <https://papers.mathyvanhoef.com/dragonblood.pdf>  
 10. Jiang, Z. H., Fei, Y., & Kaeli, D. **A Novel Side-Channel Timing Attack on GPUs**. *Proc. ACM GLSVLSI*, 2017, pp. 167–172.  
 11. Wi-Fi Alliance. **Wi-Fi Protected Access ® Security Considerations**. May 2021.  

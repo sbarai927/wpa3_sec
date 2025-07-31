@@ -1,0 +1,15 @@
+# Core crypto & utilities
+pycryptodome>=3.10    # provides Crypto, Hashlib is in stdlib
+binascii               # part of the stdlib, no install required
+
+# Data + plotting (for Jupyter analysis)
+pandas>=1.1
+numpy>=1.19
+matplotlib>=3.3
+
+# Jupyter support
+jupyter>=1.0
+ipython>=7.0
+
+# Testing
+pytest>=6.0

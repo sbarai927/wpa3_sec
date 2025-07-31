@@ -85,7 +85,8 @@ wpa3_sec/                       ← root of the repo
 │   ├── iter_vs_exec_time.png
 │   ├── random_calls_timeline.png
 ├── docs/                       ← (OPTIONAL) slides, paper PDF, extra figures
-│
+│   ├── Dissertation.pdf
+│   ├── paper.pdf
 ├── notebooks/                  ← Exploratory Jupyter notebooks
 │   └── timing_analysis.ipynb
 │
